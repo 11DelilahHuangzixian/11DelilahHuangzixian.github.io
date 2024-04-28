@@ -9,12 +9,12 @@ redirect_from:
 
 My name is Zixian Huang. I am also delighted if you call me Delilah. I got my bachelor’s degree in 2022 and I'm a second-grade master's student in [Liaoning University](https://www.lnu.edu.cn/) expected to graduate in June 2025. I am very fortuned to be supervised by [Professor Yang Gongyan](https://gjgx.lnu.edu.cn/info/13499/71417.htm) from [School of International Economics and Politics](https://gjgx.lnu.edu.cn/), Liaoning University. My research interests include International Political Economy, South Global Cooperation, Development Studies, International Aid.
 
-You can find my CV here: [Zixian Huang's Curriculum Vitae](添加网址)
+You can find my CV here: [Zixian Huang's Curriculum Vitae](../assets/cv1.0.pdf)
 
 Contact me if you want to know more information about me.
 [Emial](delilah11zixianhuang@gmail.com)
 [Email](hzx_1321@163.com)
-[Wechat](上传照片)
+[Wechat](../images/wechat.jpg)
 
 A data-driven personal website
 ======
