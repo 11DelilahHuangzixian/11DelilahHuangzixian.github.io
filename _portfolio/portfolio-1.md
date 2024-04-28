@@ -1,5 +1,5 @@
 ---
-title: "National Social Science Foundation of China 2000 (Grant No.20\&ZD143)"
+title: "National Social Science Foundation of China 2000 "
 excerpt: "A Study on the Impact of Global Value Chain Reconfiguration on International Economic Power Shift under the New Situation and China's Response Strategies"
 collection: portfolio
 ---
