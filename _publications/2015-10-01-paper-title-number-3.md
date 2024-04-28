@@ -1,5 +1,5 @@
 ---
-title: "The influence of higher education input on Chinese ODF"
+title: "Chinese Foreign aid, National Image Construction and Global Leadership Generation: An Empirical Study Based on a Cross-country Sample"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about influence of Chinese overseas direct investment.'
