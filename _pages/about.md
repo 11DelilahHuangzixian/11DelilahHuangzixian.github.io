@@ -12,7 +12,7 @@ My name is Zixian Huang. I am also delighted if you call me Delilah. I got my ba
 You can find my CV here: [Zixian Huang's Curriculum Vitae](https://github.com/11DelilahHuangzixian/Delilah_HuangZixian.github.io/blob/master/assets/cv1.0.pdf))
 
 Contact me if you want to know more information about me.
-[Emial](mailto:delilah11zixianhuang@gmail.com)  / [Email](mailto:hzx_1321@163.com) / [Wechat](https://github.com/11DelilahHuangzixian/Delilah_HuangZixian.github.io/blob/master/images/wechat.jpg)
+[Emial](mailto:delilah11zixianhuang@gmail.com)  / [Email](mailto:hzx_1321@163.com) / [Wechat](../images/wechat.jpg)
 
 A data-driven personal website
 ======
