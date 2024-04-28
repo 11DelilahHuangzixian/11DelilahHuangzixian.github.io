@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "The influence of Chinese ODF"
 category: publications
 permalink: /publications/2015-10-01-paper-title-number-3
 venue: "Journal 1"
