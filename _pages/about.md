@@ -7,7 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+My name is Zixian Huang. I am also delighted if you call me Delilah. I got my bachelor’s degree in 2022 and I'm a second-grade master's student in [Liaoning University](https://www.lnu.edu.cn/) expected to graduate in June 2025. I am very fortuned to be supervised by [Professor Yang Gongyan](https://gjgx.lnu.edu.cn/info/13499/71417.htm) from [School of International Economics and Politics](https://gjgx.lnu.edu.cn/), Liaoning University. My research interests include International Political Economy, South Global Cooperation, Development Studies, International Aid.
+
+You can find my CV here: [Zixian Huang's Curriculum Vitae](添加网址)
+
+Contact me if you want to know more information about me.
+[Emial](delilah11zixianhuang@gmail.com)
+[Email](hzx_1321@163.com)
+[Wechat](上传照片)
 
 A data-driven personal website
 ======
