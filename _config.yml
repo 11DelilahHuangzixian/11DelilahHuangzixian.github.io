@@ -22,7 +22,7 @@ repository               : "https://github.com/11Delilah_HuangZixian.github.io
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profilepicture.png"
   name             : "Delilah Zixian Huang(黄子娴)"
   pronouns         : # example: "she/her"  
   bio              : "Even miracles take a little time."
