@@ -4,6 +4,7 @@ category: publications
 permalink: /publications/2015-10-01-paper-title-number-3
 venue: "Bachelor's Thesis"
 excerpt: 'This article was not published, it was my undergraduate thesis.'
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 date: 2022-06-21
 citation: 'Zixian Huang. (2015). "The influence of Chinese ODF." http://academicpages.github.io/publications/paper3.pdf'
 ---
