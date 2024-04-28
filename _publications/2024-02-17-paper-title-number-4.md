@@ -1,8 +1,8 @@
 ---
-title: "Chinese Foreign aid, National Image Construction and Global Leadership Generation: An Empirical Study Based on a Cross-country Sample"
+title: "The"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'The paper is aboutChinese Foreign aid, National Image Construction and Global Leadership Generation.'
+excerpt: 'The paper is about Chinese Foreign aid, National Image Construction and Global Leadership Generation.'
 date: 2024-03-21
 venue: 'Journal of Contemporary Asia-Pacific Studies'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
