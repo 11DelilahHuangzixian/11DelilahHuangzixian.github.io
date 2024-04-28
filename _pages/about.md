@@ -12,11 +12,17 @@ My name is Zixian Huang. I am also delighted if you call me Delilah. I got my ba
 You can find my CV here: [Zixian Huang's Curriculum Vitae](../assets/cv1.0.pdf)
 
 Contact me if you want to know more information about me.
-[Emial](mailto:delilah11zixianhuang@gmail.com) / [Email](mailto:hzx_1321@163.com) / [Wechat](../images/wechat.jpg) / [Github](https://github.com/11DelilahHuangzixian)
+[Emial](mailto:delilah11zixianhuang@gmail.com) / [Email](mailto:hzx_1321@163.com) / [Wechat](../images/wechat.jpg)
+
+--------------------------------------
+我是黄子娴，本科毕业于广州大学，现就读于辽宁大学国际经济政治学院，主修世界经济，师从杨攻研教授，预计于2025年6月毕业。我的研究兴趣主要在国际政治经济，国际援助，全球南方合作，发展研究等方面。
+这是我的[个人简历](../assets/cv1.0.pdf)。
+您可以通过以下方式联系我。[谷歌邮箱](mailto:delilah11zixianhuang@gmail.com) / [网易邮箱](mailto:hzx_1321@163.com)  / [微信](../images/wechat.jpg)
+
 
 Education Eperience
 ======
-我是毕业于广州大学，现在就读于辽宁大学Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
