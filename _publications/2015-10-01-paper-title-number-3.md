@@ -2,9 +2,9 @@
 title: "The influence of higher education input on Chinese ODF"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about influence of China's overseas direct investment.'
+excerpt: 'This paper is about influence of Chinese overseas direct investment.'
 date: 2022-06-21
-venue: 'Bachelor's thesis'
+venue: 'Journal of Contemporary Asia-Pacific Studies'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Zixian Huang. (2022).The influence of higher education input on China's ODF.'
 ---
