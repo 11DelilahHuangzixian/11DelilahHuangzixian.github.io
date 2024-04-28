@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Zixian Huang/Personal Homepage"
 title_separator          : "-"
-name                     : &name "Zixian Huang (Delilah)"
+name                     : &name "Zixian Huang"
 description              : &description "Postgraduate student in World Economy from Liaoning University"
 url                      : https://11Delilah_HuangZixian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "11Delilah_HuangZixian/Delilah_HuangZixian.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "assets/profilepicture.png"
+  avatar           : "https://github.com/11DelilahHuangzixian/Delilah_HuangZixian.github.io/blob/master/images/profilepicture.png"
   name             : "Zixian Huang(黄子娴)"
   pronouns         : # example: "she/her"  
   bio              : "Even miracles take a little time."
