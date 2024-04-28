@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "National Social Science Foundation of China 2000 (Grant No.20\&ZD143)"
+excerpt: "A Study on the Impact of Global Value Chain Reconfiguration on International Economic Power Shift under the New Situation and China's Response Strategies"
 collection: portfolio
 ---
 
