@@ -1,5 +1,5 @@
 ---
-title: "The"
+title: ""
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about influence of Chinese overseas direct investment.'
