@@ -1,5 +1,5 @@
 ---
-title: "The influence of higher education input on Chinese ODF"
+
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about influence of China's overseas direct investment.'
