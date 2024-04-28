@@ -1,4 +1,3 @@
-@@ -0,0 +1,17 @@
 ---
 title: "Paper Title Number 3"
 category: publications
