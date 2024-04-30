@@ -245,7 +245,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: papers
+      type: publications
     values:
       layout: single
       author_profile: true
@@ -266,6 +266,14 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+  # _other information
+  - scope:
+      path: ""
+      type: others information
+    values:
+      layout: others information
       author_profile: true
       share: true
 
